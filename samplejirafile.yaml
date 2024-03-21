@@ -1,8 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  annotations:
-    jira/project-key: "22310"
+  name: sample-jira
+  description: An example of a Backstage application.
+  metadata:
+    annotations:
+      jira/project-key: "22310"
   # Example for optional annotations
   # annotations:
   #   github.com/project-slug: backstage/backstage
