@@ -3,9 +3,8 @@ kind: Component
 metadata:
   name: sample-jira
   description: An example of a Backstage application.
-  metadata:
-    annotations:
-      jira/project-key: "ANALYTICS"
+  annotations:
+      jira/project-key: ANALYTICS
   # Example for optional annotations
   # annotations:
   #   github.com/project-slug: backstage/backstage
