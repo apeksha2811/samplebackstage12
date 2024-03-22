@@ -5,7 +5,7 @@ metadata:
   description: An example of a Backstage application.
   metadata:
     annotations:
-      jira/project-key: "KAN123"
+      jira/project-key: "ANALYTICS"
   # Example for optional annotations
   # annotations:
   #   github.com/project-slug: backstage/backstage
